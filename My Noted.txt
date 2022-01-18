@@ -1,0 +1,7 @@
+#Routing:
+1. parsing error cannot find module 'next/babel'
+A. .eslintrc.json file > {"extends": ["next/babel", "next/core-web-vitals"]}
+
+2. Priority of routing:
+  1. file based routing
+  2. [dynamicsId] based routing
